@@ -1,3 +1,3 @@
 # MercuryToursTest
-QA School DataArt
-http://newtours.demoaut.com/
+QA School DataArt 
+Testing web site http://newtours.demoaut.com/
