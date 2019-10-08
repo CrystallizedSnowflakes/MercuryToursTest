@@ -1,2 +1,3 @@
-# MercuryToursTest // http://newtours.demoaut.com/
+# MercuryToursTest
 QA School DataArt
+http://newtours.demoaut.com/
